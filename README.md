@@ -1,2 +1,2 @@
 # PF-VERY-FIXED
-The fixed version v2
+Please do not make ripoffs OF THIS GAME
