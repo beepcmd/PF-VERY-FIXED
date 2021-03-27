@@ -1,2 +1,2 @@
 # PF-VERY-FIXED
-Please do not make ripoffs OF THIS GAME
+Please do not make ripoffs OF THIS GAME k
