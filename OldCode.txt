@@ -1,1 +1,12 @@
+FullClicked-Corn??-=HideCorn1-Start-Show
+RednessEffectToken-PenmateScript
+CornEffecttoken-CornScript
+LAyerLoadment=1.2-ShowBeta34
+OpenGame-,<>OpeninstallTest
 
+Mode1Fast
+Mode2FASTER
+Mode3SLOW
+
+ButtonMaker:>TEst-IFCLICKED-SayTEST
+Old
